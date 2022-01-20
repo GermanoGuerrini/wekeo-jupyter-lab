@@ -35,7 +35,7 @@ Below is a summary of the files provided, with recommendations on where to start
 * [Welcome to WEkEO Jupyter Lab](https://github.com/wekeo/wekeo-jupyter-lab/blob/master/welcome_to_wekeo_jupyterlab.ipynb) provides an overview of the WEkEO and it's Jupyter Lab environment. It will give you the basics on how to use the code provided for you, where to find more, and how to customise the environment to your needs. A great place to start! 
 
 * [WEkEO Harmonized Data Access API](https://github.com/wekeo/wekeo-jupyter-lab/blob/master/wekeo-hda/wekeo_harmonized_data_access_api.ipynb) explains how to access data on WEkEO and
-makes use of functions defined in the [HDA API functions notebook](./wekeo-hda/hda_api_functions.ipynb). You will find both of these scripts in the wekeo-hda submodule provided with this repository. You will find these functions used in other notebooks, and you can use them in any you might write too! This is a great second step to take in understandinging how you can use WEkEO.
+makes use of the [HDA API Client](https://github.com/ecmwf/hda). You will find both of these scripts in the wekeo-hda submodule provided with this repository. You will find these functions used in other notebooks, and you can use them in any you might write too! This is a great second step to take in understandinging how you can use WEkEO.
 
 After this, you can look at some of the thematic submodules provided here:
 
